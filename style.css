@@ -1,0 +1,118 @@
+.bg-image {
+  background-image: url("https://img.freepik.com/free-photo/lagoon-white-ocean-summer-sand_1203-5354.jpg?size=626&ext=jpg&ga=GA1.2.2140401322.1667307765&semt=sph");
+  height: 100vh;
+  background-size: cover;
+}
+
+.car {
+  background-color: white;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  text-align: center;
+}
+
+.main-heading {
+  font-family: "Roboto";
+  color: #35c9cc;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.button {
+  height: 39px;
+  width: 110px;
+  border-radius: 15px;
+  background-color: #3da5d9;
+  font-family: "Roboto";
+  font-size: 15px;
+  border-width: 0px;
+  color: white;
+}
+
+.p {
+  font-family: "Roboto";
+  padding: 10;
+}
+
+.bg-image2 {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+  padding: 10px;
+  background-size: cover;
+}
+
+.main-heading2 {
+  color: white;
+  font-family: "Roboto";
+  font-size: 30px;
+  font-weight: bold;
+  padding: 19px;
+}
+
+.car2 {
+  background-color: white;
+  padding: 15px;
+  border-radius: 10px;
+  margin: 15px;
+}
+
+.heading {
+  font-family: "Roboto";
+  font-size: 29px;
+  color: #0f0e46;
+  font-weight: bold;
+}
+
+.p2 {
+  color: #6c6b70;
+  font-family: "Roboto";
+  font-size: 15px;
+}
+
+.image {
+  height: 95px;
+  width: 95px;
+  border-radius: 10px;
+  text-align: right;
+}
+
+.bg-image3 {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+  height: 100vh;
+  background-size: cover;
+}
+
+.car3 {
+  background-color: white;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin: 15px;
+}
+
+.main-heading3 {
+  font-family: "Roboto";
+  font-size: 29px;
+  color: white;
+  font-weight: bold;
+  padding: 15px;
+}
+
+.heading2 {
+  color: #0f0e46;
+  font-family: "Roboto";
+  font-size: 29px;
+  font-weight: bold;
+}
+
+.p3 {
+  color: #6c6b70;
+  font-family: "Roboto";
+  font-size: 15px;
+}
+
+.p4 {
+  padding: 10px;
+}
+
+.p5 {
+  list-style-type: circle;
+}
